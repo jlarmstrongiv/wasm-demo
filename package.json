@@ -1,0 +1,19 @@
+{
+  "name": "wasm-conversion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "John L. Armstrong IV",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/sharp": "^0.27.1"
+  },
+  "dependencies": {
+    "fs-extra": "^9.1.0",
+    "sharp": "^0.27.2"
+  }
+}
